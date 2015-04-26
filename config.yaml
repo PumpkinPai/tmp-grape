@@ -1,0 +1,24 @@
+# conf.yaml
+#
+#################################
+# sknowCrash Config file
+# edit to your liking :)
+# ###############################
+
+sknowCrash:
+  # types of notifications to show
+  # all, chat, im, client
+  notify: all
+  # Time (secs) between log checks
+  frequency: 5
+  # When to show
+  # always, notfocused
+  when: always
+
+SL:
+  # location of log files on your system
+  loclog: "~/.secondlife/"
+  users: all
+  ignoreFolders: ['logs', 'user_settings', 'browser_profile', 'cache']
+  watchTypes: txt
+
