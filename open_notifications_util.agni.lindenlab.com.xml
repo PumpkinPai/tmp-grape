@@ -1,0 +1,187 @@
+<llsd>
+    <map>
+    <key>data</key>
+        <array>
+            <map>
+            <key>expiry</key>
+                <date>1970-01-01T00:00:00Z</date>
+            <key>id</key>
+                <uuid>06db766f-8854-396e-6030-fa1dc56b7888</uuid>
+            <key>name</key>
+                <string>GroupNotice</string>
+            <key>payload</key>
+                <map>
+                <key>group_id</key>
+                    <uuid>cad9c421-8b96-f9c1-fb40-dade48c43fe4</uuid>
+                <key>inventory_name</key>
+                    <string>AviewTV weekly film wrap April 25 2015</string>
+                <key>inventory_offer</key>
+                    <map>
+                    <key>description</key>
+                        <string>AviewTV weekly film wrap April 25 2015</string>
+                    <key>folder_id</key>
+                        <uuid>f0e019c7-31a2-4f58-aedc-9da4f3004fef</uuid>
+                    <key>from_group</key>
+                        <integer>1</integer>
+                    <key>from_id</key>
+                        <uuid>02efa686-7af4-427e-b023-3d6f832cd949</uuid>
+                    <key>from_name</key>
+                        <string>A group member named Secret Rage</string>
+                    <key>from_object</key>
+                        <integer>0</integer>
+                    <key>im_type</key>
+                        <integer>32</integer>
+                    <key>object_id</key>
+                        <uuid />
+                    <key>persist</key>
+                        <boolean>0</boolean>
+                    <key>responder_type</key>
+                        <string>offer_info</string>
+                    <key>sender</key>
+                        <string>216.82.51.173:13021</string>
+                    <key>transaction_id</key>
+                        <uuid>ec76a837-3fcf-0110-0bf8-1975041967ad</uuid>
+                    <key>type</key>
+                        <string>notecard</string>
+                    </map>
+                <key>message</key>
+                    <string>Please open the attached notecard to view films submitted to AviewTV this week and as always-thanks for watching!! :)</string>
+                <key>sender_name</key>
+                    <string>Secret Rage</string>
+                <key>subject</key>
+                    <string>AviewTV weekly film wrap April 25 2015</string>
+                </map>
+            <key>responseFunctor</key>
+                <string>GroupNotice</string>
+            <key>substitutions</key>
+                <map>
+                <key>MESSAGE</key>
+                    <string>Please open the attached notecard to view films submitted to AviewTV this week and as always-thanks for watching!! :)</string>
+                <key>SUBJECT</key>
+                    <string>AviewTV weekly film wrap April 25 2015</string>
+                <key>[APP_NAME]</key>
+                    <string>Second Life</string>
+                <key>[CAPITALIZED_APP_NAME]</key>
+                    <string>SECOND LIFE</string>
+                <key>[SECOND_LIFE]</key>
+                    <string>Second Life</string>
+                <key>[SECOND_LIFE_GRID]</key>
+                    <string>Second Life Grid</string>
+                <key>[SUPPORT_SITE]</key>
+                    <string>Second Life Support Portal</string>
+                <key>[create_account_url]</key>
+                    <string>http://join.secondlife.com/?sourceid=</string>
+                <key>[sourceid]</key>
+                    <string />
+                <key>_NAME</key>
+                    <string>GroupNotice</string>
+                <key>_URL</key>
+                    <string />
+                </map>
+            <key>time</key>
+                <date>2015-04-25T17:46:19Z</date>
+            </map>
+            <map>
+            <key>expiry</key>
+                <date>1970-01-01T00:00:00Z</date>
+            <key>id</key>
+                <uuid>35f13c8b-761e-c95b-24a6-905f0642eca6</uuid>
+            <key>name</key>
+                <string>GroupNotice</string>
+            <key>payload</key>
+                <map>
+                <key>group_id</key>
+                    <uuid>04f595b0-cdc8-97f0-e710-9564824c03b2</uuid>
+                <key>inventory_name</key>
+                    <string>Class Schedule Board - Builders Brewery: April 27 - May 3, 2015</string>
+                <key>inventory_offer</key>
+                    <map>
+                    <key>description</key>
+                        <string>Class Schedule Board - Builders Brewery: April 27 - May 3, 2015</string>
+                    <key>folder_id</key>
+                        <uuid>a77a638f-e87c-4f05-ab57-af4abc67b7bf</uuid>
+                    <key>from_group</key>
+                        <integer>1</integer>
+                    <key>from_id</key>
+                        <uuid>a0c0ebfe-8bb9-43d3-bc88-15cfe07c3c17</uuid>
+                    <key>from_name</key>
+                        <string>A group member named Sensuous Maximus</string>
+                    <key>from_object</key>
+                        <integer>0</integer>
+                    <key>im_type</key>
+                        <integer>32</integer>
+                    <key>object_id</key>
+                        <uuid />
+                    <key>persist</key>
+                        <boolean>0</boolean>
+                    <key>responder_type</key>
+                        <string>offer_info</string>
+                    <key>sender</key>
+                        <string>216.82.51.173:13021</string>
+                    <key>transaction_id</key>
+                        <uuid>d88ebadd-60c2-2b79-95f2-7136ee44d7ed</uuid>
+                    <key>type</key>
+                        <string>object</string>
+                    </map>
+                <key>message</key>
+                    <string>Here&apos;s this week&apos;s schedule board prim thingy for hangin&apos; on the wall or for target practice (picture of me not included). Thank you sooo much for sharing this in your communities and shops as well. Have a wonderful, productive week!
+
+Remember, that our online calendar is always kept up to date, check it often.
+http://buildersbrewery.com/calendar/
+
+What&apos;s Inside?
+* Schedule Notecard with Details
+* Landmarks
+* Pocket Guide to Builders Brewery
+* Teaching and Mentor Application
+* Schedule Texture
+</string>
+                <key>sender_name</key>
+                    <string>Sensuous Maximus</string>
+                <key>subject</key>
+                    <string>Here&apos;s the Schedule Board Prim for the Week! </string>
+                </map>
+            <key>responseFunctor</key>
+                <string>GroupNotice</string>
+            <key>substitutions</key>
+                <map>
+                <key>MESSAGE</key>
+                    <string>Here&apos;s this week&apos;s schedule board prim thingy for hangin&apos; on the wall or for target practice (picture of me not included). Thank you sooo much for sharing this in your communities and shops as well. Have a wonderful, productive week!
+
+Remember, that our online calendar is always kept up to date, check it often.
+http://buildersbrewery.com/calendar/
+
+What&apos;s Inside?
+* Schedule Notecard with Details
+* Landmarks
+* Pocket Guide to Builders Brewery
+* Teaching and Mentor Application
+* Schedule Texture
+</string>
+                <key>SUBJECT</key>
+                    <string>Here&apos;s the Schedule Board Prim for the Week! </string>
+                <key>[APP_NAME]</key>
+                    <string>Second Life</string>
+                <key>[CAPITALIZED_APP_NAME]</key>
+                    <string>SECOND LIFE</string>
+                <key>[SECOND_LIFE]</key>
+                    <string>Second Life</string>
+                <key>[SECOND_LIFE_GRID]</key>
+                    <string>Second Life Grid</string>
+                <key>[SUPPORT_SITE]</key>
+                    <string>Second Life Support Portal</string>
+                <key>[create_account_url]</key>
+                    <string>http://join.secondlife.com/?sourceid=</string>
+                <key>[sourceid]</key>
+                    <string />
+                <key>_NAME</key>
+                    <string>GroupNotice</string>
+                <key>_URL</key>
+                    <string />
+                </map>
+            <key>time</key>
+                <date>2015-04-27T14:12:56Z</date>
+            </map>
+        </array>
+    </map>
+</llsd>
