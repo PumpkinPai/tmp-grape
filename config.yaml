@@ -14,10 +14,13 @@ sknowCrash:
   # When to show
   # always, notfocused
   when: always
+  # Keep log?
+  log: True
 
 SL:
   # location of log files on your system
   loclog: "~/.secondlife/"
+  notifyxml: 'open_notifications_util.agni.lindenlab.com.xml'
   users: all
   ignoreFolders: ['logs', 'user_settings', 'browser_profile', 'cache']
   watchTypes: txt
