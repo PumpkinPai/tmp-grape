@@ -2,6 +2,8 @@
 
 # Watches your SL user folders for changes and diplays
 # changes as native notifications in UBUNTU
+# This will most likely also work in Debian but with a few changes to
+# use Gnome 3's notifications api.
 
 # For other OS's, please see:
 # https://github.com/pumpkinpai/...
