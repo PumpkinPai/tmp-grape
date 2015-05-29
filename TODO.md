@@ -15,3 +15,6 @@
 - organized gui for setting debug settings
     - note (gets overwritten if edited while SL client is running)
     - can select other sound themes
+- Ability to trigger system commands by entering chat or IM
+- Make use of teleport history files
+- Specify chat.txt period length and backup
